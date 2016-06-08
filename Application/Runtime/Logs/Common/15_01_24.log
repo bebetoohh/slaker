@@ -1,0 +1,210 @@
+[ 2015-01-24T10:19:29+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:19:29+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:19:29+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:19:50+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:19:50+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:20:07+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:20:07+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:20:07+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:22:48+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:22:48+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:22:48+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:23:14+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:23:14+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:23:14+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:24:39+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:24:39+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:24:39+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:26:16+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:26:16+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:26:16+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:27:12+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:27:12+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:27:12+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:27:54+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:27:54+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:27:54+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:28:04+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:28:04+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:28:04+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:28:18+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:28:18+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:28:18+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:28:59+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:28:59+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+ERR: 无法加载模块:Img
+
+[ 2015-01-24T10:28:59+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+ERR: 无法加载模块:Img
+

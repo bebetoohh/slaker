@@ -1,0 +1,832 @@
+[ 2015-07-22T16:23:01+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+
+[ 2015-07-22T16:23:14+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000982s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001031s ]
+
+[ 2015-07-22T16:24:13+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'user' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2015-07-22T16:24:27+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'user' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000982s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001030s ]
+
+[ 2015-07-22T16:24:49+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'user' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001106s ]
+
+[ 2015-07-22T16:24:50+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'user' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001043s ]
+
+[ 2015-07-22T16:24:50+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'user' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000982s ]
+
+[ 2015-07-22T16:24:51+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'user' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000885s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2015-07-22T16:24:51+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000983s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'user' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2015-07-22T16:24:51+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'user' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2015-07-22T16:25:10+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000978s ]
+
+[ 2015-07-22T16:25:11+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000900s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2015-07-22T16:25:11+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000896s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000946s ]
+
+[ 2015-07-22T16:25:11+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000964s ]
+
+[ 2015-07-22T16:25:11+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000945s ]
+
+[ 2015-07-22T16:25:11+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000900s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2015-07-22T16:25:12+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001088s ]
+
+[ 2015-07-22T16:25:12+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000930s ]
+
+[ 2015-07-22T16:25:12+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000908s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000958s ]
+
+[ 2015-07-22T16:25:12+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000964s ]
+
+[ 2015-07-22T16:25:12+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000954s ]
+
+[ 2015-07-22T16:25:13+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000953s ]
+
+[ 2015-07-22T16:25:15+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000943s ]
+
+[ 2015-07-22T16:25:16+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000945s ]
+
+[ 2015-07-22T16:25:17+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000990s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001037s ]
+
+[ 2015-07-22T16:25:17+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001063s ]
+
+[ 2015-07-22T16:25:17+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000908s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000956s ]
+
+[ 2015-07-22T16:25:58+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001015s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001100s ]
+
+[ 2015-07-22T16:26:02+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001116s ]
+
+[ 2015-07-22T16:26:02+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000966s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001017s ]
+
+[ 2015-07-22T16:26:03+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001024s ]
+
+[ 2015-07-22T16:26:03+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2015-07-22T16:26:03+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+
+[ 2015-07-22T16:26:24+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000986s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001035s ]
+
+[ 2015-07-22T16:26:25+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000962s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001011s ]
+
+[ 2015-07-22T16:26:25+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000962s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001010s ]
+
+[ 2015-07-22T16:26:44+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000950s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001076s ]
+
+[ 2015-07-22T16:26:45+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000946s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000996s ]
+
+[ 2015-07-22T16:26:45+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000928s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2015-07-22T16:26:45+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000966s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2015-07-22T16:26:45+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001028s ]
+
+[ 2015-07-22T16:26:59+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001003s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001053s ]
+
+[ 2015-07-22T16:26:59+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000962s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001010s ]
+
+[ 2015-07-22T16:27:00+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001104s ]
+
+[ 2015-07-22T16:27:00+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001032s ]
+
+[ 2015-07-22T16:27:00+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000988s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001040s ]
+
+[ 2015-07-22T16:27:00+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000975s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001024s ]
+
+[ 2015-07-22T16:27:00+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001029s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000941s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000989s ]
+
+[ 2015-07-22T16:27:00+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000941s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000999s ]
+
+[ 2015-07-22T16:27:01+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001078s ]
+
+[ 2015-07-22T16:27:01+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000975s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001024s ]
+
+[ 2015-07-22T16:27:01+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001089s ]
+
+[ 2015-07-22T16:27:01+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001020s ]
+
+[ 2015-07-22T16:27:02+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001099s ]
+
+[ 2015-07-22T16:27:02+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001026s ]
+
+[ 2015-07-22T16:27:03+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001125s ]
+
+[ 2015-07-22T16:27:03+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001019s ]
+
+[ 2015-07-22T16:27:03+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000975s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001024s ]
+
+[ 2015-07-22T16:27:04+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001047s ]
+
+[ 2015-07-22T16:27:06+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001018s ]
+
+[ 2015-07-22T16:28:53+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001145s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001192s ]
+
+[ 2015-07-22T16:28:54+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+NOTIC: [8] Use of undefined constant session - assumed 'session' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+NOTIC: [2] Illegal string offset 'userid' E:\Service\xampp\htdocs\slaker\Application\User\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000990s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001041s ]
+
+[ 2015-07-22T16:29:07+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000986s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001036s ]
+
+[ 2015-07-22T16:30:11+08:00 ] 127.0.0.1 /slaker/index.php?m=User&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012582s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001519s ]
+

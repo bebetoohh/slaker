@@ -1,0 +1,5 @@
+[ 2015-06-22T23:16:03+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+

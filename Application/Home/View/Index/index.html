@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Slaker system</title>
+	<!-- Bootstrap core CSS -->
+    <link href="__PUBLIC__/assets/bs/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="__PUBLIC__/css/home.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="__PUBLIC__/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+ <body>
+ 	<include file="Public/header" />
+ 	<div class="container">
+
+ 		<div class="row">
+
+ 			<div class="col-md-9">
+ 				<h3>hello, journalists of hzau,welcome using slaker system.</h3>
+ 				<h3>当前开发: <a href="{:U('Admin/User/index')}">后台用户权限</a></h3>
+ 				<ul>
+				 	<li><a href="#">Home</a>
+				 		<ul>
+				 			<li><a href="{:U('Home/index/index')}">Index - 首页</a></li>
+				 			<li><a href="{:U('Home/Reg/index')}">Reg - 注册</a> <a href="{:U('Member/reg',array('type'=>'user'))}">记者</a>  <a href="{:U('Member/reg',array('type'=>'audit'))}">编辑</a></li>
+				 			<li><a href="{:U('Home/Baoliao/index')}">Baoliao - 匿名爆料</a></li>
+				 			<li><a href="#" id="js-login">弹出登陆框</a></li>
+				 		</ul>
+				 	</li>
+				 	<li><a href="#">User</a>
+				 		<ul>
+				 			<li><a href="{:U('User/Index/index')}">Index - 用户首页</a></li>
+				 			<li><a href="{:U('User/Submission/index')}">Submission - 投稿</a></li>
+				 			<li><a href="{:U('User/Profile/index')}">Profile - 个人资料</a></li>
+				 		</ul>
+				 	</li>
+				 	<li><a href="#">Audit</a>
+				 		<ul>
+				 			<li><a href="{:U('Audit/Index/index')}">Index</a></li>
+				 		</ul>
+				 	</li>
+				 	<li>Admin</li>
+		 		</ul>
+ 			</div>
+ 			<div class="col-md-3">
+ 				<div>
+				  <!-- Nav tabs -->
+				  <ul class="nav nav-tabs" role="tablist">
+				    	<li role="presentation" class="active"><a href="#user" aria-controls="user" role="tab" data-toggle="tab">记者登录</a></li>
+					    <li role="presentation"><a href="#audit" aria-controls="audit" role="tab" data-toggle="tab">编辑登录</a></li>
+				  </ul>
+				  <!-- Tab panes -->
+				  <div class="tab-content">
+				    <div role="tabpanel" class="tab-pane active" id="user">
+				    	<p>&nbsp;</p>
+						<form action="{:U('Home/Member/login')}" method="post">
+							<div class="form-group">
+							    <label for="exampleInputEmail1">一卡通号/电子邮箱</label>
+							    <input type="text" class="form-control" id="exampleInputEmail1" name='username' placeholder="Email">
+							</div>
+							<div class="form-group">
+							    <label for="exampleInputPassword1">登录密码</label>
+							    <input type="password" class="form-control" id="exampleInputPassword1" name='password' placeholder="Password">
+							</div>
+							<button type="submit" class="btn btn-default">登录</button>
+							<a href="#" class="btn btn-link">忘记密码?</a>
+							<a href="{:U('Member/reg',array('type'=>'user'))}" class="btn btn-link">注册账号</a>
+						</form>
+				    </div>
+				    <div role="tabpanel" class="tab-pane" id="audit">
+						<form action="{:U('Home/Member/login')}" method="post">
+							<p>&nbsp;</p>
+						<form action="{:U('Home/Login/user')}" method="post">
+							<input type="hidden" class="form-control" name="type" value="2" >
+							<div class="form-group">
+							    <label for="exampleInputEmail1">一卡通号/电子邮箱</label>
+							    <input type="text" class="form-control" id="username" name="username" placeholder="Email" value="bebetoo@qq.com">
+							</div>
+							<div class="form-group">
+							    <label for="exampleInputPassword1">登录密码</label>
+							    <input type="password" class="form-control" id="password" name="password" placeholder="Password" value="123456">
+							</div>
+							<button type="submit" class="btn btn-default">登录</button>
+							<a href="#" class="btn btn-link">忘记密码?</a>
+							<a href="{:U('Member/reg',array('type'=>'audit'))}" class="btn btn-link">注册账号</a>
+						</form>
+							
+						</form>
+				    </div>
+				  </div>
+
+				</div>
+ 			</div>
+ 		</div>
+ 		
+ 		
+ 		
+ 	</div>
+<include file="Public/footer" />
+<!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+
+<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<script src="__PUBLIC__/js/layer/layer.js"></script>
+<script src="__PUBLIC__/js/Home/common.js"></script>
+<script>
+	
+</script>
+ </body>
+ </html>
+
+ 

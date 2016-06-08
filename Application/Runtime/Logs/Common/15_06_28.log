@@ -1,0 +1,168 @@
+[ 2015-06-28T20:24:09+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Img
+
+[ 2015-06-28T20:24:09+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Img
+
+[ 2015-06-28T20:24:09+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+ERR: 无法加载模块:Img
+
+[ 2015-06-28T20:24:10+08:00 ] 127.0.0.1 /project/slaker/Application/Admin/View/Public/images/backgrounds/calActiveBg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Application
+
+[ 2015-06-28T20:44:09+08:00 ] 192.168.0.228 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+ERR: 无法加载模块:Img
+
+[ 2015-06-28T20:44:09+08:00 ] 192.168.0.228 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+ERR: 无法加载模块:Img
+
+[ 2015-06-28T20:44:09+08:00 ] 192.168.0.228 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+ERR: 无法加载模块:Img
+
+[ 2015-06-28T20:44:11+08:00 ] 192.168.0.228 /project/slaker/Application/Admin/View/Public/images/backgrounds/calActiveBg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+ERR: 无法加载模块:Application
+
+[ 2015-06-28T21:00:19+08:00 ] 127.0.0.1 /project/slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Img
+
+[ 2015-06-28T21:00:19+08:00 ] 127.0.0.1 /project/slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+ERR: 无法加载模块:Img
+
+[ 2015-06-28T21:00:19+08:00 ] 127.0.0.1 /project/slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+ERR: 无法加载模块:Img
+
+[ 2015-06-28T21:00:19+08:00 ] 127.0.0.1 /project/slaker/Application/Admin/View/Public/images/backgrounds/calActiveBg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+ERR: 无法加载模块:Application
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+ERR: 无法加载模块:Css
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/css/bootstrap-responsive.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+ERR: 无法加载模块:Css
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/css/pages/dashboard.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+ERR: 无法加载模块:Css
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/css/adminia-responsive.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+ERR: 无法加载模块:Css
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/css/adminia.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+ERR: 无法加载模块:Css
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/css/font-awesome.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+ERR: 无法加载模块:Css
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/js/jquery.flot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/js/jquery.flot.pie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/js/jquery.flot.resize.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/img/headshot.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+ERR: 无法加载模块:Img
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/js/jquery.flot.orderBars.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-28T21:49:41+08:00 ] 127.0.0.1 /project/slaker/js/charts/bar.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-28T21:49:43+08:00 ] 127.0.0.1 /project/slaker/css/bootstrap-responsive.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+ERR: 无法加载模块:Css
+

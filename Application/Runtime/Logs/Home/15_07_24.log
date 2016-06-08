@@ -1,0 +1,1838 @@
+[ 2015-07-24T07:58:50+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011932s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000872s ]
+
+[ 2015-07-24T09:12:29+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Login&a=user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+
+[ 2015-07-24T09:12:34+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Reg&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029582s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000920s ]
+
+[ 2015-07-24T09:13:02+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Reg&a=user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011045s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000889s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001095s ]
+
+[ 2015-07-24T09:13:24+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009286s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009340s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000841s ]
+
+[ 2015-07-24T09:19:15+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Reg&a=user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012179s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000845s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2015-07-24T09:19:18+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011703s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011753s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000942s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000990s ]
+
+[ 2015-07-24T09:19:19+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Login&a=user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009175s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000704s ]
+
+[ 2015-07-24T09:19:27+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Login&a=audit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+ERR: 非法操作:audit
+
+[ 2015-07-24T09:22:39+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000950s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2015-07-24T09:22:41+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+
+[ 2015-07-24T09:23:08+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000996s ]
+
+[ 2015-07-24T09:24:10+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001125s ]
+
+[ 2015-07-24T09:54:48+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+SQL: SHOW COLUMNS FROM `sl_user` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001005s ]
+
+[ 2015-07-24T09:54:50+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011440s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2015-07-24T09:59:24+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'slaker.sl_audit' doesn't exist
+
+[ 2015-07-24T10:00:21+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+ERR: Think\Model:login方法不存在！
+
+[ 2015-07-24T10:04:12+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001251s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+ERR: Think\Model:login方法不存在！
+
+[ 2015-07-24T10:04:19+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0032s ]
+ERR: Think\Model:login方法不存在！
+
+[ 2015-07-24T10:05:51+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001207s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+ERR: Think\Model:login方法不存在！
+
+[ 2015-07-24T10:06:45+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001020s ]
+NOTIC: [8] Undefined variable: member E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php 第 18 行.
+
+[ 2015-07-24T10:06:53+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000957s ]
+
+[ 2015-07-24T10:07:10+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000874s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000923s ]
+
+[ 2015-07-24T10:09:18+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001288s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001608s ]
+
+[ 2015-07-24T10:09:31+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0032s ]
+ERR: Think\Model:login方法不存在！
+
+[ 2015-07-24T10:12:35+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001282s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+ERR: Think\Model:login方法不存在！
+
+[ 2015-07-24T10:12:37+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0034s ]
+ERR: Think\Model:login方法不存在！
+
+[ 2015-07-24T10:13:08+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001263s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0030s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 18 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 18 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001367s ]
+
+[ 2015-07-24T10:14:36+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 17 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 17 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001124s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001181s ]
+
+[ 2015-07-24T10:17:27+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001283s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0031s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001324s ]
+
+[ 2015-07-24T10:17:42+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001182s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001233s ]
+
+[ 2015-07-24T10:22:32+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001339s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001196s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001244s ]
+
+[ 2015-07-24T10:22:45+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001277s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0030s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001245s ]
+
+[ 2015-07-24T10:22:48+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0026s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001180s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001230s ]
+
+[ 2015-07-24T10:22:50+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001200s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0027s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001184s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001234s ]
+
+[ 2015-07-24T10:22:52+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001184s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001233s ]
+
+[ 2015-07-24T10:22:53+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001217s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0030s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001167s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001215s ]
+
+[ 2015-07-24T10:22:55+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001331s ]
+
+[ 2015-07-24T10:23:28+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001221s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001263s ]
+
+[ 2015-07-24T10:23:44+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0030s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001048s ]
+
+[ 2015-07-24T10:23:48+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0027s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001020s ]
+
+[ 2015-07-24T10:24:17+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0027s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000847s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2015-07-24T10:24:38+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0030s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000864s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000930s ]
+
+[ 2015-07-24T10:24:55+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+NOTIC: [8] Use of undefined constant I - assumed 'I' E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000863s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000910s ]
+
+[ 2015-07-24T10:25:02+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0027s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000874s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000922s ]
+
+[ 2015-07-24T10:25:12+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011354s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000845s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000890s ]
+
+[ 2015-07-24T10:25:14+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0026s ]
+NOTIC: [2] Missing argument 1 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+NOTIC: [2] Missing argument 2 for Home\Model\AuditModel::login(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 13 and defined E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000904s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2015-07-24T10:25:41+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000933s ]
+
+[ 2015-07-24T10:27:25+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001069s ]
+
+[ 2015-07-24T10:31:52+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0031s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `eid` = 'hjkhj%%%' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001079s ]
+
+[ 2015-07-24T10:32:19+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0030s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `eid` = 'hjkhj%%%@' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001083s ]
+
+[ 2015-07-24T10:32:31+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0031s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `eid` = 'hjkhj%%%@com.cn' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001166s ]
+
+[ 2015-07-24T10:32:38+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011177s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011228s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001004s ]
+
+[ 2015-07-24T10:32:43+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'hjkhj@com.cn' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000982s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001026s ]
+
+[ 2015-07-24T10:41:26+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001029s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+
+[ 2015-07-24T10:41:53+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+
+[ 2015-07-24T10:42:07+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+
+[ 2015-07-24T10:42:39+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'hjkhj@com.cn' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000990s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001040s ]
+
+[ 2015-07-24T10:42:53+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0031s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'hjkhj@com.cn' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000872s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000919s ]
+
+[ 2015-07-24T10:43:21+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0031s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'hjkhj@com.cn' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2015-07-24T10:44:03+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0033s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'hjkhj@com.cn' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2015-07-24T10:44:56+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0034s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'hjkhj@com.cn' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000929s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000978s ]
+
+[ 2015-07-24T10:44:58+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'hjkhj@com.cn' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000884s ]
+
+[ 2015-07-24T10:45:31+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'hjkhj@com.cn' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000873s ]
+
+[ 2015-07-24T10:45:33+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0027s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'hjkhj@com.cn' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000835s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000882s ]
+
+[ 2015-07-24T10:45:34+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0027s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'hjkhj@com.cn' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000944s ]
+
+[ 2015-07-24T10:45:37+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2015-07-24T10:45:39+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001313s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0025s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001147s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001194s ]
+
+[ 2015-07-24T10:46:48+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001251s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001249s ]
+
+[ 2015-07-24T10:46:51+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001188s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001195s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001250s ]
+
+[ 2015-07-24T10:47:41+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001249s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001216s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001266s ]
+
+[ 2015-07-24T10:50:02+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0027s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001208s ]
+
+[ 2015-07-24T10:50:04+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001357s ]
+
+[ 2015-07-24T10:50:06+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001181s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001159s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001205s ]
+
+[ 2015-07-24T10:50:55+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0033s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001302s ]
+
+[ 2015-07-24T10:52:07+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001261s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `last_login_time`='1437706327',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001176s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001225s ]
+
+[ 2015-07-24T10:53:52+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0035s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `last_login_time`='1437706432',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001167s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001215s ]
+
+[ 2015-07-24T10:54:05+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `last_login_time`='1437706445',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001216s ]
+
+[ 2015-07-24T11:16:07+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001290s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437707767',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0003s ]
+
+[ 2015-07-24T11:16:57+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001323s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437707817',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: user E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 43 行.
+
+[ 2015-07-24T11:18:47+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001362s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0026s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437707927',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: user E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 43 行.
+
+[ 2015-07-24T11:18:55+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437707934',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: user E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 43 行.
+NOTIC: [8] Undefined variable: user E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001299s ]
+
+[ 2015-07-24T11:19:21+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437707961',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: user E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 43 行.
+NOTIC: [8] Undefined variable: user E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001316s ]
+
+[ 2015-07-24T11:19:23+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001254s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0028s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437707963',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: user E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 43 行.
+NOTIC: [8] Undefined variable: user E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001327s ]
+
+[ 2015-07-24T11:19:24+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0030s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437707964',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: user E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 43 行.
+NOTIC: [8] Undefined variable: user E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001360s ]
+
+[ 2015-07-24T11:20:18+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0032s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437708018',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sl_audit` WHERE ( 4 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: user E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 44 行.
+NOTIC: [8] Undefined variable: user E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001338s ]
+
+[ 2015-07-24T11:21:03+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0035s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437708063',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sl_audit` WHERE ( 4 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001176s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001223s ]
+
+[ 2015-07-24T11:21:52+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0031s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437708112',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sl_audit` WHERE ( 4 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001145s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001192s ]
+
+[ 2015-07-24T11:21:56+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0030s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437708116',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sl_audit` WHERE ( 4 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001202s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001250s ]
+
+[ 2015-07-24T11:25:15+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0031s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437708315',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sl_audit` WHERE ( 4 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001211s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001276s ]
+
+[ 2015-07-24T11:25:16+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=Audit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+ERR: 非法操作:Audit
+
+[ 2015-07-24T11:25:43+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=Audit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+ERR: 非法操作:Audit
+
+[ 2015-07-24T11:25:47+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011210s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001646s ]
+
+[ 2015-07-24T11:25:49+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0027s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437708349',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sl_audit` WHERE ( 4 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001080s ]
+
+[ 2015-07-24T11:25:50+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=AuditIndex&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+ERR: 无法加载控制器:AuditIndex
+
+[ 2015-07-24T11:26:05+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000997s ]
+
+[ 2015-07-24T11:26:05+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001236s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011823s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001104s ]
+
+[ 2015-07-24T11:26:05+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011737s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001026s ]
+
+[ 2015-07-24T11:26:06+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011173s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001055s ]
+
+[ 2015-07-24T11:26:07+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0031s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437708367',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sl_audit` WHERE ( 4 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007682s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007740s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000991s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001037s ]
+
+[ 2015-07-24T12:59:29+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011666s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011726s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000857s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000982s ]
+
+[ 2015-07-24T12:59:37+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001311s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_user` [ RunTime:0.0033s ]
+ERR: Think\Model:login方法不存在！
+
+[ 2015-07-24T13:02:35+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_user` [ RunTime:0.0028s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\UserModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_user` WHERE `eid` = '' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001047s ]
+
+[ 2015-07-24T13:02:47+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001213s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_user` [ RunTime:0.0028s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\UserModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_user` WHERE `eid` = '' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008166s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000991s ]
+
+[ 2015-07-24T13:02:55+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_user` [ RunTime:0.0027s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\UserModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_user` WHERE `eid` = '' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008194s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008257s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000907s ]
+
+[ 2015-07-24T13:03:19+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011434s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011487s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000950s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001235s ]
+
+[ 2015-07-24T13:03:27+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_user` [ RunTime:0.0031s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\UserModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_user` WHERE `eid` = '105042003111' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_user` SET `login`=`login`+1,`last_login_time`='1437714207',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sl_user` WHERE ( 4 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008355s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000983s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+
+[ 2015-07-24T13:07:14+08:00 ] 127.0.0.1 /slaker/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001261s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011581s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011640s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001313s ]
+
+[ 2015-07-24T13:07:18+08:00 ] 127.0.0.1 /slaker/index.php?m=Home&c=Member&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\Service\xampp\htdocs\slaker\Application\Home\Controller\MemberController.class.php on line 10 and defined E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\Service\xampp\htdocs\slaker\ThinkPHP\Common\functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `sl_audit` [ RunTime:0.0029s ]
+NOTIC: [8192] Function ereg() is deprecated E:\Service\xampp\htdocs\slaker\Application\Home\Model\AuditModel.class.php 第 8 行.
+SQL: SELECT * FROM `sl_audit` WHERE `email` = 'bebetoo@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sl_audit` SET `login`=`login`+1,`last_login_time`='1437714438',`last_login_ip`='2130706433' WHERE `uid` = 4 [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sl_audit` WHERE ( 4 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007433s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007491s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000920s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001154s ]
+

@@ -1,0 +1,15 @@
+<option value='201000'>人事处</option>
+<option value='202000'>教务处</option>
+<option value='203000'>科学发展研究院</option>
+<option value='204000'>研究生处（研究生工作部）</option>
+<option value='205000'>学生工作部（处）</option>
+<option value='206000'>计划财务处</option>
+<option value='207000'>审计处</option>
+<option value='209000'>发展规划处</option>
+<option value='210000'>基建处</option>
+<option value='211000'>国资设备处</option>
+<option value='212000'>国际合作与交流处（国际学院）</option>
+<option value='213000'>保卫处</option>
+<option value='214000'>离退休工作处</option>
+<option value='215000'>继续教育学院</option>
+<option value='216000'>后勤管理处</option>

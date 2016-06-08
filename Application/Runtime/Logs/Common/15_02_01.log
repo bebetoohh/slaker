@@ -1,0 +1,24 @@
+[ 2015-02-01T22:53:44+08:00 ] 127.0.0.1 /slaker/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+ERR: 无法加载模块:Img
+
+[ 2015-02-01T22:53:44+08:00 ] 127.0.0.1 /slaker/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+ERR: 无法加载模块:Img
+
+[ 2015-02-01T22:53:44+08:00 ] 127.0.0.1 /slaker/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+ERR: 无法加载模块:Img
+
+[ 2015-02-01T22:53:44+08:00 ] 127.0.0.1 /slaker/Application/Admin/View/Public/images/backgrounds/calActiveBg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+ERR: 无法加载模块:Application
+

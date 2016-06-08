@@ -1,0 +1,30 @@
+[ 2016-06-08T07:47:13+08:00 ] 127.0.0.1 /slaker/index.php?m=Admin&c=User&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+
+[ 2016-06-08T07:47:55+08:00 ] 127.0.0.1 /slaker/index.php?m=Admin&c=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+
+[ 2016-06-08T07:48:47+08:00 ] 127.0.0.1 /slaker/index.php?m=Admin&c=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+
+[ 2016-06-08T07:49:08+08:00 ] 127.0.0.1 /slaker/index.php?m=Admin&c=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+
+[ 2016-06-08T08:01:52+08:00 ] 127.0.0.1 /slaker/index.php?m=Admin&c=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2016-06-08T08:01:54+08:00 ] 127.0.0.1 /slaker/index.php?m=Admin&c=User&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+

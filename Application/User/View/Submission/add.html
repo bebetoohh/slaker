@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Submission</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />    
+    
+    <link href="__PUBLIC__/assets/user/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="__PUBLIC__/assets/user/css/bootstrap-responsive.min.css" rel="stylesheet" />
+    
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600" rel="stylesheet" />
+    <link href="__PUBLIC__/assets/user/css/font-awesome.css" rel="stylesheet" />
+    
+    <link href="__PUBLIC__/assets/user/css/adminia.css" rel="stylesheet" /> 
+    <link href="__PUBLIC__/assets/user/css/adminia-responsive.css" rel="stylesheet" /> 
+    
+    <!-- <link href="__PUBLIC__/assets/user/css/pages/dashboard.css" rel="stylesheet" />  -->
+    <link href="__PUBLIC__/assets/user/css/pages/plans.css" rel="stylesheet" /> 
+    <link href="__PUBLIC__/admin/css/style.css" rel="stylesheet" /> 
+    
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+	
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+
+<body>
+	
+
+<include file="Public/header" />
+
+
+
+<div id="content">
+
+	
+	<div class="container">
+		
+		<div class="row">
+			
+			<div class="span3">
+				
+				<include file="Public/menu" />
+		
+			</div> <!-- /span3 -->
+			
+			
+			
+			<div class="span9">
+				<!-- 载入相关模型页面 -->
+				<switch name="model.id" >
+					<case value="1"><include file="Submission/article" /></case>
+					<case value="2"><include file="Submission/picture" /></case>
+				</switch>		
+				<!-- 载入模型页面结束 -->
+			</div> <!-- /span9 -->
+			
+			
+		</div> <!-- /row -->
+		
+	</div> <!-- /container -->
+	
+</div> <!-- /content -->
+					
+	
+<div id="footer">
+	
+<include file="Public/footer" />
+	
+</div> <!-- /footer -->
+
+
+    
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="__PUBLIC__/assets/user/js/jquery-1.7.2.min.js"></script>
+
+<script src="__PUBLIC__/assets/user/js/bootstrap.js"></script>
+<script src="__PUBLIC__/admin/js/common.js"></script>
+<script type="text/javascript">
+$('#submit').click(function(){
+	$('#form').submit();
+});
+$(function(){
+	//保存草稿
+	var interval;
+	$('#autoSave').click(function(){
+		var target_form = $(this).attr('target-form');
+		var target = $(this).attr('url');
+		var form = $('.'+target_form);
+		var query = form.serialize();
+		var that = this;
+		
+
+		$(that).addClass('disabled').attr('autocomplete','off').prop('disabled',true);
+		$.post(target,query).success(function(data){
+			if(data.status==1){
+				updateAlert(data.info,'alert-success');
+				$('input[name=id]').val(data.data.id);
+			}else{
+				updateAlert(data.info);
+			}
+			setTimeout(function(){
+				$('#top-alert').find('button').click();
+				$(that).removeClass('disabled').prop('disabled',false);
+			},1500);
+		})
+		//重新开始定时器
+		clearInterval(interval);
+        // autoSaveDraft();
+        return false;
+	})
+})
+</script>
+
+  </body>
+</html>

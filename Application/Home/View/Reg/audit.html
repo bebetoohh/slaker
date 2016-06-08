@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>编辑账号注册</title>
+	<!-- Bootstrap core CSS -->
+    <link href="__PUBLIC__/assets/bs/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="__PUBLIC__/css/home.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="__PUBLIC__/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+	<include file="Public/header" />
+	<div class="container">
+		<h3>编辑注册</h3>
+		<form class="form-horizontal">
+			<div class="form-group">
+		   	 	<label for="ecard" class="col-sm-2 control-label">一卡通号</label>
+		    	<div class="col-sm-2">
+		      		<input type="num" class="form-control" id="ecard" placeholder="登录账号">
+		    	</div>
+		  	</div>
+		  	<div class="form-group">
+		   	 	<label for="name" class="col-sm-2 control-label">姓名</label>
+		    	<div class="col-sm-2">
+		      		<input type="email" class="form-control" id="name" placeholder="请与一卡通上姓名保持一致">
+		    	</div>
+		  	</div>
+		  	<div class="form-group">
+			    <label for="email" class="col-sm-2 control-label">电子邮箱</label>
+			    <div class="col-sm-4">
+			      	<input type="email" class="form-control" id="email" placeholder="电子邮箱">
+			    </div>
+		 	</div>
+		 	<div class="form-group">
+		   	 	<label for="organization" class="col-sm-2 control-label">所属媒体</label>
+		    	<div class="col-sm-4">
+		      		<select id="organization" class="form-control">
+		      			<option>请选择……</option>
+					  	<option>南湖新闻网</option>
+						<option>校报编辑部</option>
+					  	<option>官方微博</option>
+					  	<option>官方微信</option>
+					  	<option>广播台</option>
+					</select>
+		    	</div>
+		  	</div>
+		  	<div class="form-group">
+		   	 	<label for="department" class="col-sm-2 control-label">所属部门/学院</label>
+		    	<div class="col-sm-2">
+		      		<input type="hidden" id="class_next" name="class_next" value="department">
+ 					<input type="hidden" id="department_next" name="department_next" value="">
+		      		<select id="class" name="class" class="form-control cascade_drop_down">
+						<option value="">请选择</option>
+		      			<option value="dangqun">党群系统</option>
+					  	<option value="xingzheng">行政系统</option>
+						<option value="yuanxi">学院系部</option>
+					  	<option value="yewu">直属单位</option>
+					</select>
+					
+		    	</div>
+		    	<div class="col-sm-2">
+		    		<select id="department" name="department" class=" form-control cascade_drop_down">
+					</select>
+		    	</div>
+		    	
+		  	</div>
+		  	<div class="form-group">
+		   	 	<label for="mobile" class="col-sm-2 control-label">手机号</label>
+		    	<div class="col-sm-4">
+		      		<input type="email" class="form-control" id="mobile" placeholder="手机号">
+		    	</div>
+		  	</div>
+		  	<div class="form-group">
+			    <label for="password" class="col-sm-2 control-label">密码</label>
+			    <div class="col-sm-2">
+			      	<input type="password" class="form-control" id="password" placeholder="密码">
+			    </div>
+		  	</div>
+		  <div class="form-group">
+		    <div class="col-sm-offset-2 col-sm-10">
+		      <div class="checkbox">
+		        <label>
+		          <input type="checkbox"> Remember me
+		        </label>
+		      </div>
+		    </div>
+		  </div>
+		  <div class="form-group">
+		    <div class="col-sm-offset-2 col-sm-10">
+		      <button type="submit" class="btn btn-default">Sign in</button>
+		    </div>
+		  </div>
+		</form>
+	</div>
+	<include file="Public/footer" />
+	<script type="text/javascript" src="__PUBLIC__/assets/user/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript">
+ $(document).ready(function(){
+     
+     $(".cascade_drop_down").change(
+         function () {
+             var name = $(this).attr("name") + "_next";
+             var next = $("#" + name).val();
+             if (next == null || next == '') {
+                 return;
+             }
+             
+             $("#" + next).empty();
+ 
+             $.ajax({
+                 type:'post',
+                 url: '__ROOT__/api/'+ $(this).val() + '.txt',
+                 data:'name=' + name + '&val=' + $(this).val(),
+                 dataType:'text',
+                 success:function(msg){
+                     ops = msg.split("\n");
+                     for (i = 0; i < ops.length; i++) {
+                         $("#" + next).append(ops[i]);
+                     }
+                 },
+                 error:function(){
+                     alert("failed.");
+                 }
+             });
+         }
+     )
+     
+ });
+ 
+ </script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+slaker_user
+
+uid  系统索引
+eid  一卡通号 唯一
+alias 别名（笔名）
+name 姓名（和一卡通保持一致）
+email 电子邮箱
+organization 所属组织（社团）
+department 学院/专业
+pwd 密码
+mobile 手机号
+reg_data 注册时间
+reg_ip 注册IP
+verigy_status 验证状态 0 为未验证 四位数为年审年份
+avatar 头像
+login_ip 登陆IP
+login_time 登陆时间
+
+
+
+slaker_aduit
+
+uid 系统索引
+eid 一卡通号 唯一
+alisa 别名（笔名）
+name 姓名（和一卡通保持一致）
+email 电子邮箱
+media 所属媒体 (报纸、广播、新媒体)
+department 学院/专业
+pwd 密码
+mobile 手机号 
+reg_data 注册时间
+reg_ip 注册IP
+verigy_status 验证状态 0 为未验证 四位数为年审年份
+avatar 头像
+login_ip 登陆IP
+login_time 登陆时间

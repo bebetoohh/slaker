@@ -1,0 +1,20 @@
+[ 2015-02-01T22:53:43+08:00 ] 127.0.0.1 /slaker/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009571s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000223s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013358s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004853s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004996s ]
+

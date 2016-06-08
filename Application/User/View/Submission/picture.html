@@ -1,0 +1,175 @@
+	<div id="top-alert" class="fixed alert alert-error " style="display:none;">
+        <button class="close " style="margin-top: 4px;">&times;</button>
+        <div class="alert-content ">这是内容</div>
+    </div>
+    <div id="main">
+	<h1 class="page-title">
+		<i class="icon-th-large"></i>
+		投稿 - 组图					
+	</h1>
+
+  
+	<div class="row">
+		<div class="span9">
+			<div class="widget">
+
+				<div class="widget-content">
+					<div class="tabbable"> <!-- /tabbable -->
+						<ul class="nav nav-tabs">
+							<li class="active"><a href="#1" data-toggle="tab">基础</a></li>
+						  	<li class=""><a href="#2" data-toggle="tab">扩展</a></li>
+						</ul>
+						<br>
+						<form id="form" action="{:U('autoSave')}" method="POST" class="form-horizontal">
+							<!-- <form id="form" action="{:U('User/Submission/update')}" method="POST" class="form-horizontal"> -->
+						<div class="tab-content"> <!-- tab-content -->
+							
+							<div class="tab-pane active" id="1"> <!-- tab-pane 1 -->
+								
+									<fieldset>
+										<div class="control-group">	
+											<label>组图标题</label>
+    										<input type="text" name="title" class="input-xxlarge" placeholder="Type something…" value="标题标题标题标题标题标题标题标题标题">
+    									</div>
+    									<div class="control-group">	
+											<label>摘要</label>
+											<textarea name="abstract" class="span8"   rows="3"></textarea>
+    										
+    									</div>
+    									<div class="control-group">	
+    										<label>文章内容</label>
+    										<a href="#">上传图片</a>(每张图片不要超过1M)
+    										    <ul class="thumbnails">
+											        <li class="span2">
+												        <div class="thumbnail">
+													        <img data-src="holder.js/300x200" alt="">
+													        <h3>Thumbnail label</h3>
+													        <p>Thumbnail caption...</p>
+												        </div>
+											        </li>
+											        <li class="span2">
+												        <div class="thumbnail">
+													        <img data-src="holder.js/300x200" alt="">
+													        <h3>Thumbnail label</h3>
+													        <p>Thumbnail caption...</p>
+												        </div>
+											        </li>
+											        <li class="span2">
+												        <div class="thumbnail">
+													        <img data-src="holder.js/300x200" alt="">
+													        <h3>Thumbnail label</h3>
+													        <p>Thumbnail caption...</p>
+												        </div>
+											        </li>
+											        <li class="span2">
+												        <div class="thumbnail">
+													        <img data-src="holder.js/300x200" alt="">
+													        <h3>Thumbnail label</h3>
+													        <p>Thumbnail caption...</p>
+												        </div>
+											        </li>
+											    </ul>
+    										<textarea name="content">hello</textarea>
+    										<script charset="utf-8" src="__PUBLIC__/assets/kindeditor/kindeditor.js"></script>
+											<script charset="utf-8" src="__PUBLIC__/assets/kindeditor/lang/zh_CN.js"></script>
+											<script>
+											        KindEditor.ready(function(K) {
+											                window.editor = K.create('textarea[name="content"]',{
+											                	width: '100%',
+											                	height:'500px',
+											                	cssPath:'__PUBLIC__/assets/kindeditor/style.css',
+
+											                });
+											        });
+											</script>
+    									</div>
+
+
+									</fieldset>
+
+							</div> <!-- tab-pane 1 -->
+							<div class="tab-pane" id="2"> <!-- tab-pane 2 -->
+								
+									<fieldset>
+									<div class="control-group">
+										<label class="control-label" for="accounttype">Account Type</label>
+										<div class="controls">
+											<label class="radio">
+												<input type="radio" name="accounttype" value="option1" checked="checked" id="accounttype">
+													POP3
+												</label>
+											<label class="radio">
+												<input type="radio" name="accounttype" value="option2">
+													IMAP
+											</label>
+											</div>
+									</div>
+									<div class="control-group">
+										<label class="control-label" for="accountusername">Account Username</label>
+										<div class="controls">
+											<input type="text" class="input-large" id="accountusername" value="rod.howard@example.com">
+												<p class="help-block">Leave blank to use your profile email address.</p>
+										</div>
+									</div>
+									<div class="control-group">
+										<label class="control-label" for="emailserver">Email Server</label>
+										<div class="controls">
+											<input type="text" class="input-large" id="emailserver" value="mail.example.com">
+										</div>
+									</div>
+									<div class="control-group">
+										<label class="control-label" for="accountpassword">Password</label>
+										<div class="controls">
+											<input type="text" class="input-large" id="accountpassword" value="password">
+										</div>
+									</div>
+									<div class="control-group">
+										<label class="control-label" for="accountadvanced">Advanced Settings</label>
+										<div class="controls">
+										<label class="checkbox">
+											<input type="checkbox" name="accountadvanced" value="option1" checked="checked" id="accountadvanced">
+												User encrypted connection when accessing this server
+											</label>
+											<label class="checkbox">
+												<input type="checkbox" name="accounttype" value="option2">
+												Download all message on connection
+											</label>
+										</div>
+									</div>
+									<br>
+									</fieldset>
+									
+							</div><!-- tab-pane 2 -->
+							
+						</div><!-- tab-content -->
+
+										<div class="form-actions">
+											<button type="submit" class="btn btn-primary" id="submit">提交(存草稿)</button> 
+											<button class="btn">取消</button>
+											<button class="btn" url="{:U('User/Submission/autoSave')}" target-form="form-horizontal" id="autoSave">存草稿</button>
+											<input type="hidden" name="id" value>
+											<input type="hidden" name="model" value="{$model.id}">
+											<input type="hidden" name="uid" value="{$Think.UID}">
+											<input type="hidden" name="department" value="{:session('user_auth.department_id')}">
+											<input type="hidden" name="organization" value="{:session('user_auth.organization_id')}">
+
+										</div> <!-- /form-actions -->
+
+						</form>
+
+
+					</div> <!-- /tabbable -->
+				</div> <!-- /widget-content -->
+			</div> <!-- /widget -->
+		</div> <!-- /span9 -->
+	</div> <!-- /row -->
+</div><!--/main-->
+				
+				
+				
+				
+				
+				
+				
+				
+				

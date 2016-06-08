@@ -1,0 +1,13 @@
+<option value='301000'>植物科学技术学院</option>
+<option value='302000'>动科动医学院</option>
+<option value='303000'>资源与环境学院</option>
+<option value='304000'>生命科学技术学院</option>
+<option value='305000'>园艺林学学院</option>
+<option value='306000'>经济管理学院</option>
+<option value='307000'>工程技术学院</option>
+<option value='308000'>水产学院</option>
+<option value='309000'>食品科学技术学院</option>
+<option value='310000'>理学院</option>
+<option value='311000'>文法学院</option>
+<option value='312000'>外国语学院</option>
+<option value='313000'>体育部</option>

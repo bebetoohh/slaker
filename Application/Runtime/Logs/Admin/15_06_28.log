@@ -1,0 +1,20 @@
+[ 2015-06-28T20:24:09+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+
+[ 2015-06-28T20:24:09+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+
+[ 2015-06-28T20:44:08+08:00 ] 192.168.0.228 /project/slaker/index.php?m=Admin&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+
+[ 2015-06-28T21:00:19+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+

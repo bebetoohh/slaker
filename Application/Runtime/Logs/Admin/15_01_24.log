@@ -1,0 +1,75 @@
+[ 2015-01-24T10:19:12+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+
+[ 2015-01-24T10:19:29+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+
+[ 2015-01-24T10:19:37+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+
+[ 2015-01-24T10:19:49+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+
+[ 2015-01-24T10:20:06+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+
+[ 2015-01-24T10:22:48+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2015-01-24T10:23:14+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+
+[ 2015-01-24T10:24:39+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+
+[ 2015-01-24T10:26:15+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+
+[ 2015-01-24T10:27:12+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+
+[ 2015-01-24T10:27:54+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+
+[ 2015-01-24T10:28:04+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+
+[ 2015-01-24T10:28:18+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+
+[ 2015-01-24T10:28:59+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2015-01-24T10:29:48+08:00 ] 127.0.0.1 /project/slaker/index.php?m=Admin&c=Base&a=department
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+

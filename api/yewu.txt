@@ -1,0 +1,10 @@
+<option value='401000'>图书馆</option>
+<option value='402000'>期刊社</option>
+<option value='403000'>现代教育技术中心</option>
+<option value='404000'>作物遗传改良国家重点实验室</option>
+<option value='405000'>农业微生物学国家重点实验室</option>
+<option value='406000'>高等教育研究所</option>
+<option value='407000'>后勤集团</option>
+<option value='408000'>资产经营公司</option>
+<option value='409000'>附属学校</option>
+<option value='411000'>校医院</option>

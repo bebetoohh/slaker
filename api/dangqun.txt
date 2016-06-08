@@ -1,0 +1,7 @@
+<option value='101000'>学校办公室</option>
+<option value='102000'>纪委监察处</option>
+<option value='103000'>党委组织部</option>
+<option value='104000'>党委宣传部</option>
+<option value='105000'>党委统战部</option>
+<option value='109000'>校工会</option>
+<option value='110000'>校团委</option>
